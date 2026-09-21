@@ -14,7 +14,7 @@ imbalance**: only 0.17% of transactions are fraudulent.
 - **Features:** Time, Amount, and V1–V28 (PCA-anonymized for privacy)
 - **Target:** `Class` (0 = Legit, 1 = Fraud)
 
-## 3. Why This Is "Intermediate" (not a basic classification task)
+## 3. Choosing this topic 
 - Real datasets are almost never perfectly balanced — handling this
   correctly is a core applied ML skill, not just calling `.fit()`
 - Accuracy is a misleading metric here (a model predicting "always legit"
