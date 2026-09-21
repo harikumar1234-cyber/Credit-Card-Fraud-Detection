@@ -1,1 +1,8 @@
-harikumar1234-cyber/Credit-Card-Fraud-Detection
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+streamlit
+matplotlib
+seaborn
+joblib
